@@ -1,3 +1,5 @@
+//TeamM: Ankur Gyawali, Kritish Pokharel, Ritesh Kafle, and Gorakh Khatri
+
 #ifndef LIST_H
 #define LIST_H
 
